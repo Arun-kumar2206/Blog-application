@@ -40,7 +40,7 @@ A full-stack blog platform built with React and Node.js.
 1. Clone the repository
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/Arun-kumar2206/Blog-application.git
 cd blog-platform-project
 ```
 
